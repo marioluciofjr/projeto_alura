@@ -1,5 +1,5 @@
 # projeto_alura
-Repositório especial para envio de projeto(s) para a premiação da Imersão IA [Alura &amp; Google]
+Repositório especial para envio de projeto(s) para a premiação da Imersão IA [**Alura** &amp; **Google**]
 
 ## PresenteIA
 Você não quer mais quebrar a cabeça na hora de escolher presentes? 🤯🎁
