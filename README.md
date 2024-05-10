@@ -20,11 +20,11 @@ Em *Valor* vai a sua API Key. Aí é só habilitar em *Acesso ao notebook*.
 
 Esses inputs são importantíssimos para uma boa resposta do Gemini, portanto, não precisa poupar palavras. 
 
-status_de_relacionamento = O que a pessoa é para você? (mãe, pai, namorada(o), ficante, colega, amiga(o), desconhecida(o) etc.)
-características = Quais são as principais caraterísticas físicas e/ou psicológicas da pessoa que você quer presentear?
-lazer = Como ou com que essa pessoa se diverte?
-ocasião = Que data comemorativa ou evento merece esse presente?
-dinheiro_disponível = Quanto você pretende gastar com o presente?
++ **status_de_relacionamento** = O que a pessoa é para você? (mãe, pai, namorada(o), ficante, colega, amiga(o), desconhecida(o) etc.)
++ **características** = Quais são as principais caraterísticas físicas e/ou psicológicas da pessoa que você quer presentear?
++ **lazer** = Como ou com que essa pessoa se diverte?
++ **ocasião** = Que data comemorativa ou evento merece esse presente?
++ **dinheiro_disponível** = Quanto você pretende gastar com o presente?
 
 
 
