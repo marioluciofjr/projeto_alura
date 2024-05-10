@@ -33,8 +33,12 @@ A ideia é você escolher uma das sugestões do Gemini e pesquisar no código qu
 
 Escolhi o Mercado Livre como e-commerce referência, pois confio na plataforma (Alô, Mercado Livre! Tô disponível para publis...).
 
-Desenvolvedor: Mário Lúcio
-Site:
+#### Desenvolvedor 
+Mário Lúcio
+
+#### Site
+https://prazocerto.me
+
 
 
 
