@@ -40,7 +40,7 @@ Mário Lúcio
 https://prazocerto.me
 
 #### LinkedIn
-
+https://linkedin.com/in/marioluciofjr
 
 
 
