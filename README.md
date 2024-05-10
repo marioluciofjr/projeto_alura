@@ -26,7 +26,7 @@ Esses inputs são importantíssimos para uma boa resposta do Gemini, portanto, n
 + **ocasião** = Que data comemorativa ou evento merece esse presente?
 + **dinheiro_disponível** = Quanto você pretende gastar com o presente?
 
-![Screenshot - 2024-05-10T095342 749](https://github.com/marioluciofjr/projeto_alura/assets/105465306/e6cb8ed0-75fd-4d1f-9ffa-0cd3eb2ce3b3)
+![Screenshot - 2024-05-10T101941 358](https://github.com/marioluciofjr/projeto_alura/assets/105465306/b43204db-ebf4-4652-8b86-61dc3dba7bca)
 
 A primeira parte do código é a interação com o Gemini, que fornecerá três tipos de termos de busca para você pesquisar. 
 A ideia é você escolher uma das sugestões do Gemini e pesquisar no código que busca as 10 melhores opções com essa palavra-chave no Mercado Livre.
