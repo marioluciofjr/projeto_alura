@@ -39,6 +39,9 @@ Mário Lúcio
 #### Site
 https://prazocerto.me
 
+#### LinkedIn
+
+
 
 
 
