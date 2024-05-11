@@ -1,12 +1,28 @@
 # projeto_alura
 Repositório especial para envio de projeto(s) para a premiação da Imersão IA [**Alura** &amp; **Google**]
 
+# Pacotes utilizados neste projeto
++ google.generativeai
++ google.colab (userdata)
++ textwrap
++ IPython.display (display e Markdown)
++ requests
++ bs4 (BeautifulSoup)
+
+# Técnica utilizada no prompt do Gemini para este projeto
+
+*Few-shot Chain-of-Thought Prompting* (Um raciocínio passo a passo com alguns exemplos). A ideia era produzir um prompt bem detalhado, a fim de extrair uma ótima resposta do Gemini
+
+---------------------------------------------------------------------------------
+
 ## PresenteIA
 Você não quer mais quebrar a cabeça na hora de escolher presentes? 🤯🎁
 Seus problemas acabaram! 
 
 Com o PresenteIA você terá um guru de presentes e obter sugestões de termos de busca para procurar no e-commerce, bem como dicas financeiras a partir do 
 conceito de finanças comportamentais de Daniel Kahneman, Prêmio Nobel de Economia.
+
+---------------------------------------------------------------------------------
 
 ### Dicas úteis para bom uso do código
 
@@ -15,6 +31,8 @@ conceito de finanças comportamentais de Daniel Kahneman, Prêmio Nobel de Econo
 Eu utilizei a dica do Fabrício Carraro para colocar a API Key do Google utilizando o painel Secrets do Google Colab. 
 ---> chave_secreta = userdata.get('AQUI VOCÊ BATIZA SUA CHAVE SECRETA') e coloca em *Nome* no Secrets, que você acessa pelo ícone de chave. 
 Em *Valor* vai a sua API Key. Aí é só habilitar em *Acesso ao notebook*.
+
+---------------------------------------------------------------------------------
 
 ![Screenshot - 2024-05-10T094541 430](https://github.com/marioluciofjr/projeto_alura/assets/105465306/d3205dce-5e5b-4d2f-b103-3cd38d88a284)
 
@@ -26,6 +44,8 @@ Esses inputs são importantíssimos para uma boa resposta do Gemini, portanto, n
 + **ocasião** = Que data comemorativa ou evento merece esse presente?
 + **dinheiro_disponível** = Quanto você pretende gastar com o presente?
 
+---------------------------------------------------------------------------------
+
 ![Screenshot - 2024-05-10T101941 358](https://github.com/marioluciofjr/projeto_alura/assets/105465306/b43204db-ebf4-4652-8b86-61dc3dba7bca)
 
 A primeira parte do código é a interação com o Gemini, que fornecerá três tipos de termos de busca para você pesquisar. 
@@ -33,11 +53,17 @@ A ideia é você escolher uma das sugestões do Gemini e pesquisar no código qu
 
 Escolhi o Mercado Livre como e-commerce referência, pois confio na plataforma.
 
+---------------------------------------------------------------------------------
+
 ### Como utilizar o código?
 
 Clica aqui para acessar a pasta com o código em Python ---> https://github.com/marioluciofjr/projeto_alura/blob/main/PresenteIA.ipynb
 
+![Screenshot - 2024-05-11T150800 461](https://github.com/marioluciofjr/projeto_alura/assets/105465306/967d6491-1722-4063-91d4-a0da2bd8befe)
 
+Depois é só clicar no botão **Open in Colab**
+
+---------------------------------------------------------------------------------
 
 #### Desenvolvedor 
 Mário Lúcio
