@@ -29,7 +29,7 @@ chave_secreta = userdata.get('COLOQUE_A_SUA_API_KEY')
 
 genai.configure(api_key=chave_secreta)
 ```
-Você pode obter a API Key acessando o Google AI Studio e clicando no botão **Get API key**
+Você pode obter a API Key acessando o [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat) e clicando no botão **Get API key**
 
 <img width="959" alt="Captura de tela 2024-05-11 163007" src="https://github.com/marioluciofjr/projeto_alura/assets/105465306/09c7fa16-06af-4af4-b2b6-fdd7d2ad8a5e">
 
