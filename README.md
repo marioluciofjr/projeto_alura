@@ -2,12 +2,13 @@
 Repositório especial para envio de projeto(s) para a premiação da Imersão IA [**Alura** &amp; **Google**]
 
 # Pacotes utilizados neste projeto
-+ google.generativeai
-+ google.colab (userdata)
-+ textwrap
-+ IPython.display (display e Markdown)
-+ requests
-+ bs4 (BeautifulSoup)
++ google.generativeai {Este pacote oferece acesso à suíte de modelos generativos de IA do Google. Permite aos desenvolvedores integrar facilmente modelos de linguagem grandes (LLMs) em suas aplicações};
++ google.colab (userdata) {Dentro deste contexto se refere à capacidade de acessar e manipular dados do usuário dentro de um notebook Colab.
+Isso pode incluir carregar arquivos, acessar variáveis de ambiente, armazenar dados persistentes e interagir com APIs.}
++ textwrap {Oferece funções para formatar e manipular strings de texto}
++ IPython.display (display e Markdown) {O display permite renderizar uma variedade de objetos em notebooks Jupyter, incluindo texto, HTML, imagens, vídeos e widgets interativos. Já o Markdown pode formatar texto usando a linguagem Markdown dentro de notebooks Jupyter}
++ requests {Este pacote oferece uma maneira elegante e intuitiva de interagir com a web em Python}
++ bs4 (BeautifulSoup) {Permite analisar documentos HTML e XML, navegar pela estrutura do documento e extrair informações específicas}
 
 # Técnica utilizada no prompt do Gemini para este projeto
 
