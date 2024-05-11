@@ -10,6 +10,8 @@ Isso pode incluir carregar arquivos, acessar variáveis de ambiente, armazenar d
 + requests {Este pacote oferece uma maneira elegante e intuitiva de interagir com a web em Python}
 + bs4 (BeautifulSoup) {Permite analisar documentos HTML e XML, navegar pela estrutura do documento e extrair informações específicas}
 
+**OBS**: Essas e outras bibliotecas você pode acessar a documentação no [Pypi](https://pypi.org/), um repositório de software para a linguagem de programação Python. O PyPI ajuda você a encontrar e instalar softwares desenvolvidos e compartilhados pela comunidade do Python.
+
 # Técnica utilizada no prompt do Gemini para este projeto
 
 *Few-shot Chain-of-Thought Prompting* (Um raciocínio passo a passo com alguns exemplos). A ideia era produzir um prompt bem detalhado, a fim de extrair uma ótima resposta do Gemini
@@ -19,7 +21,7 @@ Isso pode incluir carregar arquivos, acessar variáveis de ambiente, armazenar d
 ```bash
 !pip install -q -U google-generativeai
 ```
-Obs: o recurso '-q' permite uma instalação silenciosa, ou seja, sem aquele output imenso, enquanto o '-U' serve para obter a versão mais atualizada do pacote.
+**OBS**: o recurso '-q' permite uma instalação silenciosa, ou seja, sem aquele output imenso, enquanto o '-U' serve para obter a versão mais atualizada do pacote.
 
 ```python
 import google.generativeai as genai
@@ -88,20 +90,4 @@ Depois é só clicar no botão **Open in Colab**
 #### Desenvolvedor 
 Mário Lúcio
 
-#### Site
-https://prazocerto.me
-
-#### LinkedIn
-https://linkedin.com/in/marioluciofjr
-
-
-
-
-
-
-
-
-
-
-
-
+##### 🔗 [Site](https://prazocerto.me) | [LinkedIn](https://linkedin.com/in/marioluciofjr)
