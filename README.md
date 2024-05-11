@@ -2,10 +2,13 @@
 Repositório especial para envio de projeto(s) para a premiação da Imersão IA [**Alura** &amp; **Google**]
 
 # Sumário
++ [Introdução](https://github.com/marioluciofjr/projeto_alura/tree/main#introdu%C3%A7%C3%A3o)
 + [Pacotes utilizados neste projeto](https://github.com/marioluciofjr/projeto_alura/tree/main#pacotes-utilizados-neste-projeto)
 + [Técnica utilizada no prompt do Gemini para este projeto](https://github.com/marioluciofjr/projeto_alura/tree/main#t%C3%A9cnica-utilizada-no-prompt-do-gemini-para-este-projeto)
 + [Instalação da Biblioteca do Google para IA e utilização da API Key](https://github.com/marioluciofjr/projeto_alura/tree/main#instala%C3%A7%C3%A3o-da-biblioteca-do-google-para-ia-e-utiliza%C3%A7%C3%A3o-da-api-key)
-+ []()
++ [Dicas úteis para bom uso do código](https://github.com/marioluciofjr/projeto_alura/tree/main#dicas-%C3%BAteis-para-bom-uso-do-c%C3%B3digo)
++ [Como utilizar o código?](https://github.com/marioluciofjr/projeto_alura/tree/main#como-utilizar-o-c%C3%B3digo)
++ [Desenvolvedor ](https://github.com/marioluciofjr/projeto_alura/tree/main#desenvolvedor)
 
 # Projeto PresenteIA 
 
@@ -18,7 +21,7 @@ conceito de finanças comportamentais de Daniel Kahneman, Prêmio Nobel de Econo
 
 ---------------------------------------------------------------------------------
 
-# Pacotes utilizados neste projeto
+## Pacotes utilizados neste projeto
 + google.generativeai {Este pacote oferece acesso à suíte de modelos generativos de IA do Google. Permite aos desenvolvedores integrar facilmente modelos de linguagem grandes (LLMs) em suas aplicações};
 + google.colab (userdata) {Dentro deste contexto se refere à capacidade de acessar e manipular dados do usuário dentro de um notebook Colab.
 Isso pode incluir carregar arquivos, acessar variáveis de ambiente, armazenar dados persistentes e interagir com APIs.}
@@ -31,13 +34,13 @@ Isso pode incluir carregar arquivos, acessar variáveis de ambiente, armazenar d
 
 ---------------------------------------------------------------------------------
 
-# Técnica utilizada no prompt do Gemini para este projeto
+## Técnica utilizada no prompt do Gemini para este projeto
 
 *Few-shot Chain-of-Thought Prompting* (Um raciocínio passo a passo com alguns exemplos). A ideia era produzir um prompt bem detalhado, a fim de extrair uma ótima resposta do Gemini
 
 ---------------------------------------------------------------------------------
 
-# Instalação da Biblioteca do Google para IA e utilização da API Key
+## Instalação da Biblioteca do Google para IA e utilização da API Key
 
 ```bash
 !pip install -q -U google-generativeai
@@ -58,7 +61,7 @@ Você pode obter a API Key acessando o [Google AI Studio](https://aistudio.googl
 
 ---------------------------------------------------------------------------------
 
-### Dicas úteis para bom uso do código
+## Dicas úteis para bom uso do código
 
 ![Screenshot - 2024-05-10T092530 435](https://github.com/marioluciofjr/projeto_alura/assets/105465306/edf02446-4835-4e83-b11c-80deb8500a0d)
 
@@ -89,7 +92,7 @@ Escolhi o Mercado Livre como e-commerce referência, pois confio na plataforma.
 
 ---------------------------------------------------------------------------------
 
-### Como utilizar o código?
+## Como utilizar o código?
 
 Clica aqui para acessar a pasta com o código em Python ---> https://github.com/marioluciofjr/projeto_alura/blob/main/PresenteIA.ipynb
 
@@ -99,7 +102,7 @@ Depois é só clicar no botão **Open in Colab**
 
 ---------------------------------------------------------------------------------
 
-#### Desenvolvedor 
+### Desenvolvedor 
 Mário Lúcio
 
 ##### 🔗 [Site](https://prazocerto.me) | [LinkedIn](https://linkedin.com/in/marioluciofjr)
