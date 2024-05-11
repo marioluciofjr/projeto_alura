@@ -31,7 +31,7 @@ Esses inputs são importantíssimos para uma boa resposta do Gemini, portanto, n
 A primeira parte do código é a interação com o Gemini, que fornecerá três tipos de termos de busca para você pesquisar. 
 A ideia é você escolher uma das sugestões do Gemini e pesquisar no código que busca as 10 melhores opções com essa palavra-chave no Mercado Livre.
 
-Escolhi o Mercado Livre como e-commerce referência, pois confio na plataforma (Alô, Mercado Livre! Tô disponível para publis...).
+Escolhi o Mercado Livre como e-commerce referência, pois confio na plataforma.
 
 #### Desenvolvedor 
 Mário Lúcio
