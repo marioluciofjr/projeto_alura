@@ -14,6 +14,23 @@ Isso pode incluir carregar arquivos, acessar variáveis de ambiente, armazenar d
 
 *Few-shot Chain-of-Thought Prompting* (Um raciocínio passo a passo com alguns exemplos). A ideia era produzir um prompt bem detalhado, a fim de extrair uma ótima resposta do Gemini
 
+# Instalação da Biblioteca do Google para IA e utilização da API Key
+
+```bash
+!pip install -q -U google-generativeai
+```
+Obs: o recurso '-q' permite uma instalação silenciosa, ou seja, sem aquele output imenso, enquanto o '-U' serve para obter a versão mais atualizada do pacote.
+
+```python
+import google.generativeai as genai
+
+from google.colab import userdata
+chave_secreta = userdata.get('COLOQUE_A_SUA_API_KEY')
+
+genai.configure(api_key=chave_secreta)
+```
+Você pode obter a API Key 
+
 ---------------------------------------------------------------------------------
 
 ## PresenteIA
