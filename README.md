@@ -1,6 +1,23 @@
 # projeto_alura
 Repositório especial para envio de projeto(s) para a premiação da Imersão IA [**Alura** &amp; **Google**]
 
+# Sumário
++ [Pacotes utilizados neste projeto](https://github.com/marioluciofjr/projeto_alura/tree/main#pacotes-utilizados-neste-projeto)
++ [Técnica utilizada no prompt do Gemini para este projeto](https://github.com/marioluciofjr/projeto_alura/tree/main#t%C3%A9cnica-utilizada-no-prompt-do-gemini-para-este-projeto)
++ [Instalação da Biblioteca do Google para IA e utilização da API Key](https://github.com/marioluciofjr/projeto_alura/tree/main#instala%C3%A7%C3%A3o-da-biblioteca-do-google-para-ia-e-utiliza%C3%A7%C3%A3o-da-api-key)
++ []()
+
+# Projeto PresenteIA 
+
+## Introdução
+Você não quer mais quebrar a cabeça na hora de escolher presentes? 🤯🎁
+Seus problemas acabaram! 
+
+Com o PresenteIA você terá um guru de presentes e obter sugestões de termos de busca para procurar no e-commerce, bem como dicas financeiras a partir do 
+conceito de finanças comportamentais de Daniel Kahneman, Prêmio Nobel de Economia.
+
+---------------------------------------------------------------------------------
+
 # Pacotes utilizados neste projeto
 + google.generativeai {Este pacote oferece acesso à suíte de modelos generativos de IA do Google. Permite aos desenvolvedores integrar facilmente modelos de linguagem grandes (LLMs) em suas aplicações};
 + google.colab (userdata) {Dentro deste contexto se refere à capacidade de acessar e manipular dados do usuário dentro de um notebook Colab.
@@ -12,9 +29,13 @@ Isso pode incluir carregar arquivos, acessar variáveis de ambiente, armazenar d
 
 **OBS**: Essas e outras bibliotecas você pode acessar a documentação no [Pypi](https://pypi.org/), um repositório de software para a linguagem de programação Python. O PyPI ajuda você a encontrar e instalar softwares desenvolvidos e compartilhados pela comunidade do Python.
 
+---------------------------------------------------------------------------------
+
 # Técnica utilizada no prompt do Gemini para este projeto
 
 *Few-shot Chain-of-Thought Prompting* (Um raciocínio passo a passo com alguns exemplos). A ideia era produzir um prompt bem detalhado, a fim de extrair uma ótima resposta do Gemini
+
+---------------------------------------------------------------------------------
 
 # Instalação da Biblioteca do Google para IA e utilização da API Key
 
@@ -34,15 +55,6 @@ genai.configure(api_key=chave_secreta)
 Você pode obter a API Key acessando o [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat) e clicando no botão **Get API key**
 
 <img width="959" alt="Captura de tela 2024-05-11 163007" src="https://github.com/marioluciofjr/projeto_alura/assets/105465306/09c7fa16-06af-4af4-b2b6-fdd7d2ad8a5e">
-
----------------------------------------------------------------------------------
-
-# PresenteIA
-Você não quer mais quebrar a cabeça na hora de escolher presentes? 🤯🎁
-Seus problemas acabaram! 
-
-Com o PresenteIA você terá um guru de presentes e obter sugestões de termos de busca para procurar no e-commerce, bem como dicas financeiras a partir do 
-conceito de finanças comportamentais de Daniel Kahneman, Prêmio Nobel de Economia.
 
 ---------------------------------------------------------------------------------
 
