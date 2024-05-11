@@ -33,6 +33,12 @@ A ideia é você escolher uma das sugestões do Gemini e pesquisar no código qu
 
 Escolhi o Mercado Livre como e-commerce referência, pois confio na plataforma.
 
+### Como utilizar o código?
+
+Clica aqui para acessar a pasta com o código em Python ---> https://github.com/marioluciofjr/projeto_alura/blob/main/PresenteIA.ipynb
+
+
+
 #### Desenvolvedor 
 Mário Lúcio
 
