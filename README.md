@@ -7,7 +7,7 @@ Repositório especial para envio de projeto(s) para a premiação da Imersão IA
 + [Técnica utilizada no prompt do Gemini para este projeto](https://github.com/marioluciofjr/projeto_alura/tree/main#t%C3%A9cnica-utilizada-no-prompt-do-gemini-para-este-projeto)
 + [Instalação da Biblioteca do Google para IA e utilização da API Key](https://github.com/marioluciofjr/projeto_alura/tree/main#instala%C3%A7%C3%A3o-da-biblioteca-do-google-para-ia-e-utiliza%C3%A7%C3%A3o-da-api-key)
 + [Dicas úteis para bom uso do código](https://github.com/marioluciofjr/projeto_alura/tree/main#dicas-%C3%BAteis-para-bom-uso-do-c%C3%B3digo)
-+ [Como utilizar o código?](https://github.com/marioluciofjr/projeto_alura/tree/main#como-utilizar-o-c%C3%B3digo)
++ [Como acessar o código direto no Google Colab?](https://github.com/marioluciofjr/projeto_alura/tree/main#como-utilizar-o-c%C3%B3digo)
 + [Desenvolvedor ](https://github.com/marioluciofjr/projeto_alura/tree/main#desenvolvedor)
 
 # Projeto PresenteIA 
@@ -99,7 +99,7 @@ Escolhi o Mercado Livre como e-commerce referência, pois confio na plataforma.
 
 ---------------------------------------------------------------------------------
 
-## Como utilizar o código?
+## Como acessar o código direto no Google Colab?
 
 Clica aqui para acessar a pasta com o código em Python ---> https://github.com/marioluciofjr/projeto_alura/blob/main/PresenteIA.ipynb
 
