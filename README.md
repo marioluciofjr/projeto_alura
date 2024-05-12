@@ -36,7 +36,14 @@ Isso pode incluir carregar arquivos, acessar variáveis de ambiente, armazenar d
 
 ## Técnica utilizada no prompt do Gemini para este projeto
 
-*Few-shot Chain-of-Thought Prompting* (Um raciocínio passo a passo com alguns exemplos). A ideia era produzir um prompt bem detalhado, a fim de extrair uma ótima resposta do Gemini
+*Few-shot Chain-of-Thought Prompting* (Um raciocínio passo a passo com alguns exemplos). A ideia era produzir um prompt bem detalhado, a fim de extrair uma ótima resposta do Gemini.
+
+### Entenda mais sobre essa técnica
+
++ [Prompting com Cadeia de Pensamento](https://learnprompting.org/pt/docs/intermediate/chain_of_thought)
++ [Guia Prompt Engineering](https://www.programmers.com.br/blog/guia-prompt-engineering/)
++ [Guia de design de prompts do Google](https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=pt-br)
++ [Cadeia-de-Pensamento Prompt](https://www.promptingguide.ai/pt/techniques/cot)
 
 ---------------------------------------------------------------------------------
 
